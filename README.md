@@ -1,6 +1,5 @@
 # VIGENERE-CIPHER
-## NAME : BASKAR U
-## REG.NO : 212223220013
+
 ## AIM:
 
 To implement the Vigenere Cipher substitution technique using C program.
